@@ -1,4 +1,4 @@
-# Python ML SpaceX
+# Python Machine Learning SpaceX
 IBM Data Science Certificate - Capstone project - SpaceX
 
 ## About this Course
